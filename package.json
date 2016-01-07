@@ -1,0 +1,20 @@
+{
+  "name": "hubot-openshift-restart",
+  "description": "A hubot script that will restart openshift bots",
+  "version": "0.0.1",
+  "author": "Sohum Banerjea <sohumb@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "openshift"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SohumB/hubot-openshift-restart.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SohumB/hubot-openshift-restart/issues"
+  },
+  "main": "index.coffee"
+}
